@@ -1,3 +1,5 @@
+![showerThoughts](https://user-images.githubusercontent.com/29349064/78563734-44278400-783d-11ea-8ed8-293ba9e62602.jpg)
+
 # showerthoughtapp
 
 > reddit api fetch with vue-fullpage.js
