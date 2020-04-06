@@ -1,4 +1,4 @@
-![showerThoughts](https://user-images.githubusercontent.com/29349064/78563734-44278400-783d-11ea-8ed8-293ba9e62602.jpg)
+![showerthoughts2](https://user-images.githubusercontent.com/29349064/78586706-a3958c00-785d-11ea-95d6-799d62fa0a30.jpg)
 
 # showerthoughtapp
 
