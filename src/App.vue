@@ -7,7 +7,7 @@
                   <div class="quote-symbol">“</div>
                   <div class="quote"><a target="blank" :href="showerThought.data.url">{{ showerThought.data.title }}</a></div>
                   <div class="details">
-                    <div class="details-author">Author: {{ showerThought.data.auth }}</div>
+                    <div class="details-author">Author: {{ showerThought.data.author }}</div>
                     <div class="stats">{{ showerThought.data.ups }} Upvotes | {{ showerThought.data.num_comments }} Comments</div>
                   </div>
               </div>
